@@ -3,7 +3,7 @@ package TH;
 public class Conserva implements Runnable { 	//classe che incrementa 
 	Numeri conservatore;
 	
-	public Conserva(Numeri num) {		//gli passo l'oggetto "num" che gli servono 
+	public Conserva(Numeri num) {		//gli passo l'oggetto "num" che gli servono. 
 		conservatore = num;
 	}
 	
